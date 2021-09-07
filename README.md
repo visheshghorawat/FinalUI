@@ -1,7 +1,6 @@
 # ui_challenge
 
-Kowi Fashion App UI_CHALLENGE
-![Kowi_ss](https://user-images.githubusercontent.com/67622760/132391015-7bbea74b-0847-4bbe-8ed6-1af7e5634a28.PNG)
+Kowi UI_CHALLENGE
 
 ## Getting Started
 
